@@ -18,6 +18,6 @@
 
 ​	管理员:1       学生：2	   教师:3	
 
-![01](.\assert\01.png)
+![01](assert\01.png)
 
 ##### note:可将ssms.zip项目文件导入eclipse、Intellij使用，须将src下c3p0-config.xml中的用户名和密码改为自己数据库的用户名和密码。
