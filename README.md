@@ -21,3 +21,10 @@
 ![01](assert\01.png)
 
 ##### note:可将ssms.zip项目文件导入eclipse、Intellij使用，须将src下c3p0-config.xml中的用户名和密码改为自己数据库的用户名和密码。
+
+
+
+项目示范地址：
+
+[ssms]: http://47.102.196.162:8080/ssms
+
